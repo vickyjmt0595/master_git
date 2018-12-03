@@ -1,2 +1,2 @@
 # master_git
-Practice git
+Practice git in different branch
